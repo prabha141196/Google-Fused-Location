@@ -63,8 +63,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     ProgressDialog progressBar;
     Boolean isGPS = true;
     FloatingActionButton refresh;
-
-
+    //New button design color changee(CR works)
 
 
     private Location location;
