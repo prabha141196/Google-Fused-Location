@@ -65,6 +65,8 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     FloatingActionButton refresh;
 
 
+
+
     private Location location;
     private GoogleApiClient googleApiClient;
     private static final int PLAY_SERVICES_RESOLUTION_REQUEST = 9000;
