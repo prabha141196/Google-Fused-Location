@@ -1,0 +1,8 @@
+
+Jsquid:S1659"'Declare "gpsButton" on a separate line.(¹ÉÔûÿÿÿÿ8»ñò•Ë-
+9squid:S3626q"Remove this redundant jump.(ûÁİ…8Áá­–Ë-
+psquid:S3776["RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¯ÜÑñ8Áá­–Ë-
+\"squid:SwitchLastCaseIsDefaultCheck\""Add a default case to this switch.(×ö³–úÿÿÿÿ8Áá­–Ë-
+Msquid:S1066f"/Merge this if statement with the enclosing one.(³„ö×8Áá­–Ë-
+Vsquid:S1197["8Move the array designator from the variable to the type.(¯ÜÑñ8Áá­–Ë-
+nsquid:S1301\"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ8Áá­–Ë-
